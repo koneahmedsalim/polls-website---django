@@ -1,4 +1,4 @@
-#!c:\users\kbrah\music\djangoproject\myenv\scripts\python.exe
+#!c:\users\kbrah\music\polls\myenv\scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
